@@ -3,13 +3,13 @@ var now = moment();
 // displaying current
 $("#currentDay").text(now.format("LLLL");
 
-$(".confirm").on("click" function());
+// $(".confirm").on("click" function());
 
-var event = $(".description").trim();
+// var event = $(".description").trim();
 
-function(){
-    localStorage.setItem("name", event);
-}
+// function(){
+//     localStorage.setItem("name", event);
+// }
 
 // i want to add an descrition to the event
 
