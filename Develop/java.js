@@ -1,7 +1,7 @@
 // setting moment to now
 var now = moment();
 // displaying current
-$("#currentDay").text(now.format("LLLL");
+$("#currentDay").text(now.format("LLLL"));
 
 // $(".confirm").on("click" function());
 
